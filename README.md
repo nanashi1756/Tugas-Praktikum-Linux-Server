@@ -84,6 +84,7 @@ $  nano /etc/sshd_config
 
 Ubahlah Port 22 menjadi port 40 dan tambahkan Protocol 2.
 ![VirtualBox_Ubuntu Server 24 04_30_10_2024_21_59_24](https://github.com/user-attachments/assets/87bc3c04-3249-4194-aa3d-6fd9d6d5518f)
+Setelah diubah, tutup file dengan cara ctrl+X
 
 ### 3.5.2 Mengaktifkan dan Menerapkan Perubahan pada Sistem Host Server
 Untuk mengaktifkan dan menerapkan perubahan yang telah kita lakukan sebelumnya, kita dapat menggunakan command
