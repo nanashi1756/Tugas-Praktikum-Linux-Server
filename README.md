@@ -28,7 +28,7 @@ $  ssh -V
 ```
 Setelah itu layanan SSH perlu diaktifkan dengan cara
 ```
-$  sudo systemctl enable ssh!
+$  sudo systemctl enable ssh
 $  sudo systemctl start ssh
 ```
 ![Screenshot 2024-10-30 213006](https://github.com/user-attachments/assets/f14b1f93-1982-4f29-a27f-4ff59ac79545)
@@ -48,7 +48,7 @@ $  ifconfig
 ![Screenshot 2024-10-30 213501](https://github.com/user-attachments/assets/d37b516f-8587-44b2-92e3-861ae7cae783)
 
 ## 3.3 Nmap
-Kita bisa menggunakan Nmap untuk memverifikasi IP address kita yang telah kita check sebelumnya dengan command
+Nmap (Network Mapper) adalah alat open-source yang digunakan untuk pemindaian dan penemuan jaringan. Kita bisa menggunakan Nmap untuk memverifikasi IP address kita yang telah kita check sebelumnya dengan command
 ```
 $Nmap [IP address Host Server]
 ```
