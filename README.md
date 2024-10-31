@@ -100,7 +100,7 @@ $ ufw status
 
 Check status dengan menggunakan command tulpn
 ```
-$  ss -tulpm | grep ssh
+$  ss -tulpn | grep ssh
 ```
 ![VirtualBox_Ubuntu Server 24 04_30_10_2024_22_13_11](https://github.com/user-attachments/assets/a8696973-4407-4d9f-9c0f-eb6589211fbf)
 
